@@ -21,5 +21,3 @@ jobs:
         files: target/release/actions
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 
-    
-    
